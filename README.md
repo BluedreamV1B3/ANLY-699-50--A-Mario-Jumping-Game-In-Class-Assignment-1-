@@ -40,17 +40,13 @@ Super Mario Jumper is a side-scrolling game where you control Mario and try to:
 
 ### Installing Dependencies
 
-1. Install Pygame (the only external dependency):
-
-pip install pygame
+1. Install Pygame (the only external dependency): pip install pygame
 
 2. Running the Game
 
 Navigate to the project directory in your terminal
 
-Run the game:
-
-python mario_jumper.py
+Run the game: python mario_jumper.py
 
 ## Game Assets
 
